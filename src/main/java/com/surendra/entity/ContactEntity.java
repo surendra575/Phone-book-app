@@ -31,7 +31,7 @@ public class ContactEntity {
 	private String contactName;
 	
 	@Column(name="CONTACT_EMAIL") 
-	private String contactEmail;
+	private String contactEmail; 
 	
 	@Column(name="CONTACT_NUMBER")
 	private Long contactNumber;
